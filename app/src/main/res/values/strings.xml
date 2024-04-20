@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCodeLabCompose</string>
+    <string name="show_less">Show less\n</string>
+    <string name="show_more">Show more\n</string>
+</resources>
